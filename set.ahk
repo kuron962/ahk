@@ -5,6 +5,6 @@
 #SingleInstance force
 
 ;; VS Code
-F5::
+F6::
   Run, "{dayLogフォルダを配置したフォルダパス}\dayLog\%A_YYYY%%A_MM%%A_DD%.md"
 return
